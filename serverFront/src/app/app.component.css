@@ -1,0 +1,8 @@
+#navbar-buttons a i {
+    vertical-align: middle;
+}
+
+#navbar-buttons {
+    display: flex;
+    align-items: center;
+}
